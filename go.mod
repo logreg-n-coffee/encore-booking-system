@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	encore.dev v1.37.0
-	github.com/jackc/pgx/v5 v5.9.0
+	github.com/jackc/pgx/v5 v5.9.2
 )
 
 require (
